@@ -3,11 +3,19 @@
 
 ---
 
-## 🖥️ Destaque da Semana
-
-![Destaque da Semana](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
-
-Bem-vindo(a) ao The Developer Times, sua fonte confiável para as últimas notícias e atualizações do mundo da programação.
+<div style="display: flex; align-items: center;">
+  <!-- Destaque da Semana -->
+  <div style="flex: 1;">
+    <h2>🖥️ Destaque da Semana</h2>
+    <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Destaque da Semana" width="300px">
+    <p>Bem-vindo(a) ao The Developer Times, sua fonte confiável para as últimas notícias e atualizações do mundo da programação.</p>
+  </div>
+  <!-- GIF de Investimento -->
+  <div style="flex: 1;">
+    <h2>💼 Investimento</h2>
+    <img src="https://media.giphy.com/media/3ornk57KwDXf81rjWM/giphy.gif" alt="Investimento" width="300px">
+  </div>
+</div>
 
 ## 🚀 Habilidades em Destaque
 
@@ -19,8 +27,8 @@ Bem-vindo(a) ao The Developer Times, sua fonte confiável para as últimas notí
 ## 📬 Contato
 
 - 📧 E-mail: [metasquare.co@gmail.com](mailto:seuemail@example.com)
-- 📱 Telefone Celular 1: +55 61 981023981
-- 📱 Telefone Celular 2: +55 61 982817140
+- 📱 Telefone Celular : +55 981023981
+- 📱 Telefone Celular : +55 982817140
 
 ---
 
