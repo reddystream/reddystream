@@ -2,8 +2,18 @@
 
 <img align="center" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="500" height="320" /> 
 
+## :brain: Soft Skills
 
-## 👨‍💻 Habilidades Técnicas
+```diff
++ Colaboração
++ Comunicação
++ Inteligência emocional
++ Organização
++ Resolução de problemas
+```
+
+
+## 👨‍💻 Hard Skills
 
 ```diff
 + Linguagens de Programação: Java, Python, JavaScript, PHP, Android
