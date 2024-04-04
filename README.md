@@ -10,13 +10,7 @@
     <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Destaque da Semana" width="300px">
     <p>Bem-vindo(a) ao The Developer Times, sua fonte confiável para as últimas notícias e atualizações do mundo da programação.</p>
   </div>
-  <!-- GIF de Investimento -->
-  <div style="flex: 1;">
-    <h2>💼 Investimento</h2>
-    <img src="https://media.giphy.com/media/3ornk57KwDXf81rjWM/giphy.gif" alt="Investimento" width="300px">
-  </div>
-</div>
-
+  
 ## 🚀 Habilidades em Destaque
 
 - **Java**
