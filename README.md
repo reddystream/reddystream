@@ -17,5 +17,5 @@ Atuo no setor de tecnologia há vários anos, tendo trabalhado em empresas gover
 ## 📫 Entre em Contato
 - LinkedIn - https://www.linkedin.com/in/reddystream
 - E-mail - metasquare.co@gmail.com
-- Telefone 1 - (61) 981023981
-- Telefone 2 - (61) 982817140
+- Telefone - (61) 981023981 (whatsapp)
+- Telefone - (61) 982817140
