@@ -1,4 +1,4 @@
-# Analista de Desenvolvimento de Sistemas | Desenvolvedor FullStack
+# Analista de Desenv. de Sistemas | Desenvolvedor Full Stack
 
 <img align="center" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="500" height="320" /> 
 
